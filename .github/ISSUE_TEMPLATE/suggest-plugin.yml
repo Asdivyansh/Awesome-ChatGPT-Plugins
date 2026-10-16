@@ -1,0 +1,62 @@
+name: Suggest a plugin
+description: Recommend a ChatGPT plugin for the curated list
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Plugin name
+      placeholder: Acme
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Directory link
+      description: The plugin's page on chatgpt.com/plugins (or its source repo)
+      placeholder: https://chatgpt.com/plugins/plugin_asdk_app_...
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Suggested section
+      options:
+        - "💠 Built by OpenAI"
+        - "💻 Coding & Software Engineering"
+        - "☁️ Cloud, Deploy & Databases"
+        - "🔎 Web Search, Scraping & Browsing"
+        - "🤖 Automation, Agents & Integrations"
+        - "🎨 Design, Whiteboards & UI"
+        - "🎬 Image, Video, Audio & Music Creation"
+        - "✍️ Writing, Publishing & Websites"
+        - "📝 Docs, Notes & Knowledge"
+        - "✅ Project & Task Management"
+        - "📅 Meetings, Calendar & Scheduling"
+        - "💬 Email & Team Chat"
+        - "🤝 Sales, CRM & Customer Support"
+        - "📣 Marketing, SEO & Social Media"
+        - "🛍️ E-commerce & Shopping"
+        - "💳 Payments, Accounting & Payroll"
+        - "📈 Investing, Markets & Personal Finance"
+        - "📊 Data, Analytics & BI"
+        - "👥 HR, Recruiting & Careers"
+        - "⚖️ Legal, Compliance & Government"
+        - "🔐 Security & Privacy"
+        - "🎓 Learning & Education"
+        - "🔬 Research & Science"
+        - "🩺 Health, Fitness & Wellness"
+        - "✈️ Travel & Maps"
+        - "🏠 Real Estate, Food & Local Services"
+        - "🎵 Music, Media & Entertainment"
+        - "🎮 Games, Fun & Lifestyle"
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it awesome?
+      description: What does it do that ChatGPT can't do alone? Have you used it?
+    validations:
+      required: true

@@ -1,0 +1,29 @@
+name: Report a plugin
+description: A listing is broken, removed, misleading, or miscategorized
+title: "[Report] "
+labels: ["report"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Plugin name
+    validations:
+      required: true
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong?
+      options:
+        - Removed from the directory / dead link
+        - Description is inaccurate
+        - Wrong section
+        - Safety or privacy concern
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+    validations:
+      required: true
