@@ -9,7 +9,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**[Start here](#-start-here)** · **[Browse by category](#-plugins-by-category)** · **[Full catalog (4,338)](catalog/README.md)** · **[Build a plugin](#%EF%B8%8F-build-your-own-plugin)** · **[History](#%EF%B8%8F-history-plugins--gpts--apps--plugins)** · **[Contribute](CONTRIBUTING.md)**
+**[Start here](#-start-here)** · **[Browse by category](#-plugins-by-category)** · **[Full catalog (4,338)](catalog/README.md)** · **[Build a plugin](#%EF%B8%8F-build-your-own-plugin)** · **[Contribute](CONTRIBUTING.md)**
 
 </div>
 
@@ -59,7 +59,6 @@ This repo has three layers:
 - [🔭 What 4,338 plugins tell us](#-what-4338-plugins-tell-us)
 - [🛠️ Build your own plugin](#%EF%B8%8F-build-your-own-plugin)
 - [📖 Learn](#-learn)
-- [🏛️ History: plugins → GPTs → apps → plugins](#%EF%B8%8F-history-plugins--gpts--apps--plugins)
 - [🔗 Related lists](#-related-lists)
 - [🤝 Contributing](#-contributing)
 
@@ -1397,39 +1396,6 @@ We read every listing while curating this repo. Here's what stood out:
 - [DevDay 2026 announcements and developer resources](https://community.openai.com/t/devday-2026-announcements-and-developer-resources/1402006) - Official roundup thread linking docs for every DevDay 2026 launch.
 - [MCP community](https://modelcontextprotocol.io/community/communication) - Where MCP Apps, auth, and MCP Events spec work happens ([GitHub Discussions](https://github.com/modelcontextprotocol/modelcontextprotocol/discussions)).
 - [OpenAI Discord](https://discord.gg/openai) · [@OpenAIDevs](https://x.com/OpenAIDevs) - Official community server and developer announcements.
-
-## 🏛️ History: plugins → GPTs → apps → plugins
-
-"Plugins" is on its fourth generation. The name came back in 2026, but the technology is completely different from 2023.
-
-| When | What happened |
-| --- | --- |
-| **Mar 2023** | [ChatGPT plugins](https://openai.com/index/chatgpt-plugins/) launch in alpha: an `ai-plugin.json` manifest plus an OpenAPI spec. Launch partners included Expedia, Instacart, KAYAK, Klarna, OpenTable, Shopify, Slack, Wolfram, and Zapier. |
-| **May 2023** | Plugins beta rolls out to all Plus users, and the store grows to about 1,000 plugins. |
-| **Nov 2023** | [GPTs](https://openai.com/index/introducing-gpts/) are announced at the first DevDay, followed by the [GPT Store](https://openai.com/index/introducing-the-gpt-store/) in January 2024. |
-| **Mar–Apr 2024** | The [plugins beta winds down](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) in favor of GPTs. |
-| **Jun 2025** | Connectors expand, and custom **MCP** connectors arrive in beta. |
-| **Oct 6, 2025** | DevDay: [**apps in ChatGPT** and the Apps SDK](https://openai.com/index/introducing-apps-in-chatgpt/), built on MCP, with pilot partners Booking.com, Canva, Coursera, Figma, Expedia, Spotify, and Zillow. |
-| **Nov 2025** | [MCP Apps](https://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/) is proposed as an open standard by OpenAI, Anthropic, and MCP-UI. |
-| **Dec 2025** | [App submissions open](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt/) and the in-product app directory launches. Connectors are renamed apps. |
-| **Mar 2026** | Plugins (skills, apps, and MCP config) [launch in Codex](https://learn.chatgpt.com/docs/changelog#codex-2026-03-25). |
-| **Jul 9, 2026** | **Apps become plugins.** The App Directory becomes the universal **Plugin Directory** for ChatGPT and Codex, and the Codex app merges into the ChatGPT desktop app. |
-| **Sep 2026** | Custom GPTs begin [migrating to plugins](https://learn.chatgpt.com/docs/migrate-custom-gpts), with retirement scheduled for Dec 11, 2026. DevDay 2026 adds Plugin Extensions and MCP Events. |
-
-<details>
-<summary><b>Four generations compared</b></summary>
-
-| | Plugins (2023–24) | GPTs (2023–26) | Apps (2025–26) | **Plugins (2026–)** |
-| --- | --- | --- | --- | --- |
-| **Tech** | `ai-plugin.json` + OpenAPI | Instructions, knowledge, and Actions (OpenAPI) | Apps SDK on MCP | Skills + MCP server + MCP Apps UI + extensions |
-| **UI** | Text only | Text only | Inline, carousel, fullscreen, and PiP widgets | Widgets, sidebar apps, side panels, file viewers, forms |
-| **Runs in** | ChatGPT (plugin picker) | ChatGPT | ChatGPT | ChatGPT Chat and Work, Codex desktop and CLI |
-| **Distribution** | Plugin store (beta) | GPT Store | App directory | Universal Plugin Directory, workspace and Git marketplaces |
-| **Status** | Retired April 2024 | Retiring December 2026 | Folded into plugins | **Current** |
-
-</details>
-
-➡️ Full timeline, sources, and the iconic 2023 plugins: **[docs/history.md](docs/history.md)**
 
 ## 🔗 Related lists
 
