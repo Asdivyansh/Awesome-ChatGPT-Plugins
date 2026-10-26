@@ -1303,6 +1303,7 @@ We read every listing while curating this repo. Here's what stood out:
 - [OpenAI API Playground](https://platform.openai.com/playground) - Add your MCP server as a tool to inspect raw requests and responses.
 - [ngrok](https://ngrok.com/docs) · [Cloudflare Quick Tunnels](https://developers.cloudflare.com/tunnel/get-started/quick-tunnels/) - Expose a local `/mcp` endpoint while you develop.
 - [mcp-proxy](https://github.com/punkpeye/mcp-proxy) - Wrap a stdio MCP server as streamable HTTP so ChatGPT can reach it. ⭐ 292
+- [PluginLint](https://kalimathastrology-arch.github.io/pluginlint/) - Browser-only checks for listings, tool-output privacy, and submission test cases. · [source](https://github.com/kalimathastrology-arch/pluginlint)
 
 ### ☁️ Hosting
 
