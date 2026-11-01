@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Directory](https://img.shields.io/badge/directory-4%2C338_plugins-10a37f)](catalog/README.md)
-[![Curated](https://img.shields.io/badge/hand--picked-720-0b1020)](#-plugins-by-category)
+[![Curated](https://img.shields.io/badge/hand--picked-721-0b1020)](#-plugins-by-category)
 [![Updated](https://img.shields.io/badge/updated-Oct_10%2C_2026-blue)](data/plugins.json)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,7 +15,7 @@
 
 This repo has three layers:
 
-- 🌟 **720 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
+- 🌟 **721 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
 - 📚 **A [full, searchable catalog](catalog/README.md)** of every plugin in the directory, plus [JSON](data/plugins.json) and [CSV](data/plugins.csv) exports and a list of [public MCP endpoints](catalog/mcp-endpoints.md).
 - 🛠️ **A builder's toolkit:** official docs, SDKs, frameworks, testing tools, templates, and a [submission checklist](docs/building-plugins.md).
 
@@ -119,7 +119,7 @@ flowchart LR
 
 ## 🧭 Plugins by category
 
-**720 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
+**721 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
 
 **Legend:** ⭐ editor's pick · 🧩 ships skills · 🖥️ desktop app only · `source` = public source code
 
@@ -132,7 +132,7 @@ flowchart LR
 | [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (32) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
 | [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (41) |
 | [👥 HR, Recruiting & Careers](#-hr-recruiting--careers) (13) | [⚖️ Legal, Compliance & Government](#%EF%B8%8F-legal-compliance--government) (30) | [🔐 Security & Privacy](#-security--privacy) (18) |
-| [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (26) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
+| [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (27) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
 | [✈️ Travel & Maps](#%EF%B8%8F-travel--maps) (65) | [🏠 Real Estate, Food & Local Services](#-real-estate-food--local-services) (27) | [🎵 Music, Media & Entertainment](#-music-media--entertainment) (22) |
 | [🎮 Games, Fun & Lifestyle](#-games-fun--lifestyle) (22) |  |  |
 
@@ -933,6 +933,7 @@ _Literature search, citations, scientific computing, and AI models for biology a
 - [Elicit](https://chatgpt.com/plugins/plugin_asdk_app_69fcf53d4d8481919b65501a96bbed02) ⭐ - Search 125M+ academic papers and build structured reports that extract data across studies.
 - [Wolfram](https://chatgpt.com/plugins/plugin_asdk_app_69fe0bf66c8481919c513d799406436e) ⭐ - Run Wolfram Language and Wolfram|Alpha computations and curated data queries from chat.
 - [alphaXiv](https://chatgpt.com/plugins/plugin_asdk_app_6a69834b831c8191a0281d6aca1722f0) - Discover academic papers, query their content, inspect linked GitHub repos, and save papers.
+- [Arcmira](https://github.com/arcmira/mcp/tree/master/plugins/arcmira) - Search indexed YouTube and podcast transcripts for timestamped quotes and speaker appearances. 🧩
 - [Article Galaxy](https://chatgpt.com/plugins/plugin_asdk_app_6a5009fb05248191bccf5611822d08f7) - Check availability and reuse rights for scientific articles and order full-text PDFs.
 - [Biohub ESM](https://chatgpt.com/plugins/plugin_asdk_app_6abdcb3d2970819186a0c7a25c953c4b) - Explore protein mutation landscapes, predict all-atom structures, and find related proteins. 🧩
 - [BioRender](https://chatgpt.com/plugins/plugin_connector_691e3de0d2708191a6476a7b36e38779) - Search scientific figure templates and generate first-draft figures to edit in BioRender.
