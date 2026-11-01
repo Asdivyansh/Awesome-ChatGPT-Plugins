@@ -390,7 +390,7 @@ _Generate and edit images, video, voice, music, and 3D._
 - [OpusClip](https://chatgpt.com/plugins/plugin_asdk_app_6a84784ebb6c8191819a3b6a4d86359c) - Turn long videos into short clips with selected highlights, reframing, and animated captions.
 - [Picsart](https://chatgpt.com/plugins/plugin_asdk_app_6a18d4c190a0819186e6b129a09e931e) - Create and edit images, video, and audio, and organize files in Picsart Drive. 🧩 🖥️
 - [PixVerse](https://chatgpt.com/plugins/plugins_6a50b49006148191a10a308fbfb6bf7c) - Create or edit videos for product ads, UGC, explainers, and talking heads from references. 🧩
-- [PopNow MCP](https://github.com/popnow-ai/popnow-mcp) - Connect local MCP clients to paid image, video, music, and speech generation.
+- [PopNow MCP](https://github.com/popnow-ai/popnow-mcp) - Create images, videos, music and voiceovers in ChatGPT with your PopNow account.
 - [Remotion](https://chatgpt.com/plugins/plugins~Plugin_efd07789186881918253a50acfc32762) - Build videos programmatically in React, with animations, captions, transitions, and charts. 🧩 · [source](https://github.com/remotion-dev/remotion)
 - [Riverside](https://chatgpt.com/plugins/plugin_asdk_app_6a7c90343f80819194c6cc6dac6e1fae) - Edit recordings, cut social clips, draft episode assets, and publish podcasts and videos. 🧩
 - [Shutterstock](https://chatgpt.com/plugins/plugin_asdk_app_69b34589585c819183939cb03b6bd191) - Search and download stock images, videos, music, and sound effects.
