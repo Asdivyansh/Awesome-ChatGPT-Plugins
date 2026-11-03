@@ -1315,6 +1315,7 @@ We read every listing while curating this repo. Here's what stood out:
 
 ### 🧱 Templates & examples
 
+- [CNVX Case Tools](https://github.com/cnvxstudio/case-tools-mcp) - Local stdio MCP example for Unicode case conversion, input limits, and protocol checks.
 - [Apps SDK examples](https://github.com/openai/openai-apps-sdk-examples) - The canonical starting point from OpenAI. ⭐ 2.4k
 - [MCP Apps examples](https://github.com/modelcontextprotocol/ext-apps/tree/main/examples) - Official starters in React, Vue, Svelte, Solid, Preact, and vanilla JS, plus map, PDF, and Three.js demos.
 - [alpic-ai/apps-sdk-template](https://github.com/alpic-ai/apps-sdk-template) - Minimal TypeScript ChatGPT app on Skybridge with one-click deploy. ⭐ 113
