@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Directory](https://img.shields.io/badge/directory-4%2C338_plugins-10a37f)](catalog/README.md)
-[![Curated](https://img.shields.io/badge/hand--picked-721-0b1020)](#-plugins-by-category)
+[![Curated](https://img.shields.io/badge/hand--picked-722-0b1020)](#-plugins-by-category)
 [![Updated](https://img.shields.io/badge/updated-Oct_10%2C_2026-blue)](data/plugins.json)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,7 +15,7 @@
 
 This repo has three layers:
 
-- 🌟 **721 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
+- 🌟 **722 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
 - 📚 **A [full, searchable catalog](catalog/README.md)** of every plugin in the directory, plus [JSON](data/plugins.json) and [CSV](data/plugins.csv) exports and a list of [public MCP endpoints](catalog/mcp-endpoints.md).
 - 🛠️ **A builder's toolkit:** official docs, SDKs, frameworks, testing tools, templates, and a [submission checklist](docs/building-plugins.md).
 
@@ -119,7 +119,7 @@ flowchart LR
 
 ## 🧭 Plugins by category
 
-**721 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
+**722 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
 
 **Legend:** ⭐ editor's pick · 🧩 ships skills · 🖥️ desktop app only · `source` = public source code
 
@@ -129,7 +129,7 @@ flowchart LR
 | [🔎 Web Search, Scraping & Browsing](#-web-search-scraping--browsing) (10) | [🤖 Automation, Agents & Integrations](#-automation-agents--integrations) (8) | [🎨 Design, Whiteboards & UI](#-design-whiteboards--ui) (36) |
 | [🎬 Image, Video, Audio & Music Creation](#-image-video-audio--music-creation) (31) | [✍️ Writing, Publishing & Websites](#%EF%B8%8F-writing-publishing--websites) (11) | [📝 Docs, Notes & Knowledge](#-docs-notes--knowledge) (17) |
 | [✅ Project & Task Management](#-project--task-management) (14) | [📅 Meetings, Calendar & Scheduling](#-meetings-calendar--scheduling) (16) | [💬 Email & Team Chat](#-email--team-chat) (14) |
-| [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (32) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
+| [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (33) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
 | [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (41) |
 | [👥 HR, Recruiting & Careers](#-hr-recruiting--careers) (13) | [⚖️ Legal, Compliance & Government](#%EF%B8%8F-legal-compliance--government) (30) | [🔐 Security & Privacy](#-security--privacy) (18) |
 | [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (27) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
@@ -585,7 +585,7 @@ _SEO, ads, email marketing, social scheduling, and AI-search visibility._
 - [Klaviyo](https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4) - Analyze Klaviyo campaign and flow performance, including click rates and attributed revenue.
 
 <details>
-<summary><b>Show 17 more</b></summary>
+<summary><b>Show 18 more</b></summary>
 
 - [LinkedIn Ads](https://chatgpt.com/plugins/plugin_asdk_app_69cdf9990c90819185974d8727ef9d73) - Understand LinkedIn ad set performance and get insights to guide campaign decisions.
 - [Linktree](https://chatgpt.com/plugins/plugin_asdk_app_694340ec31b48191bc2606abc58af373) - Find creators on Linktree for campaigns by location, content category, and follower count.
@@ -594,6 +594,7 @@ _SEO, ads, email marketing, social scheduling, and AI-search visibility._
 - [MailerLite](https://chatgpt.com/plugins/plugin_asdk_app_6a6b2a7035c08191914a7c6ead20af80) - Manage subscribers, groups, campaigns, forms, segments, and automations in MailerLite.
 - [Meltwater](https://chatgpt.com/plugins/plugin_asdk_app_6a39cd00e5b48191b07ae39cca3b4dd9) - Search news and social posts, pull trends and sentiment, and build Boolean queries.
 - [Metricool](https://chatgpt.com/plugins/plugin_asdk_app_69d73fc8aa5c8191bec1583760b130c7) - Get social analytics, find recommended posting times, and create or update scheduled posts.
+- [Opus Growth](https://chatgpt.com/plugins/plugin_asdk_app_6ac905faf95c81919457910ac9ebd99a) - Run Google, Meta, Microsoft, TikTok, and LinkedIn ads from chat, previewing every change first.
 - [Peec AI](https://chatgpt.com/plugins/plugin_asdk_app_6a79a24c9b0c819197d220e7b655c8b5) - Track brand visibility, sentiment, and share of voice across AI search engines.
 - [Postiz](https://chatgpt.com/plugins/plugin_asdk_app_6aaaf1a529808191a2a15fde824bb013) - Draft and schedule social posts across connected channels and review upcoming publishing.
 - [Semrush](https://chatgpt.com/plugins/plugin_connector_691fa57b709c8191b61c48b1f78dce21) - Pull Semrush SEO data on domains, keywords, backlinks, and traffic by channel and geography.
