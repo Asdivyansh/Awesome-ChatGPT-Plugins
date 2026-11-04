@@ -1343,6 +1343,7 @@ We read every listing while curating this repo. Here's what stood out:
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - `npx skills` installer plus the [skills.sh](https://skills.sh) directory. ⭐ 34k
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official skills collection. ⭐ 32k
 - [openai/skills](https://github.com/openai/skills) - OpenAI's original Codex skills catalog, now **deprecated** in favor of `openai/plugins`. ⭐ 28k
+- [SceneRally Player Guide](https://github.com/cnvxstudio/scenerally-player-guide/blob/main/SKILL.md) - Read-only skill for interpreting shared-story choices and recorded events.
 
 ## 📖 Learn
 
