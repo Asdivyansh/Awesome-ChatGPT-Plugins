@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Directory](https://img.shields.io/badge/directory-4%2C338_plugins-10a37f)](catalog/README.md)
-[![Curated](https://img.shields.io/badge/hand--picked-723-0b1020)](#-plugins-by-category)
+[![Curated](https://img.shields.io/badge/hand--picked-724-0b1020)](#-plugins-by-category)
 [![Updated](https://img.shields.io/badge/updated-Oct_10%2C_2026-blue)](data/plugins.json)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,7 +15,7 @@
 
 This repo has three layers:
 
-- 🌟 **723 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
+- 🌟 **724 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
 - 📚 **A [full, searchable catalog](catalog/README.md)** of every plugin in the directory, plus [JSON](data/plugins.json) and [CSV](data/plugins.csv) exports and a list of [public MCP endpoints](catalog/mcp-endpoints.md).
 - 🛠️ **A builder's toolkit:** official docs, SDKs, frameworks, testing tools, templates, and a [submission checklist](docs/building-plugins.md).
 
@@ -119,7 +119,7 @@ flowchart LR
 
 ## 🧭 Plugins by category
 
-**723 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
+**724 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
 
 **Legend:** ⭐ editor's pick · 🧩 ships skills · 🖥️ desktop app only · `source` = public source code
 
@@ -127,7 +127,7 @@ flowchart LR
 | --- | --- | --- |
 | [💠 Built by OpenAI](#-built-by-openai) (48) | [💻 Coding & Software Engineering](#-coding--software-engineering) (29) | [☁️ Cloud, Deploy & Databases](#%EF%B8%8F-cloud-deploy--databases) (28) |
 | [🔎 Web Search, Scraping & Browsing](#-web-search-scraping--browsing) (10) | [🤖 Automation, Agents & Integrations](#-automation-agents--integrations) (8) | [🎨 Design, Whiteboards & UI](#-design-whiteboards--ui) (36) |
-| [🎬 Image, Video, Audio & Music Creation](#-image-video-audio--music-creation) (31) | [✍️ Writing, Publishing & Websites](#%EF%B8%8F-writing-publishing--websites) (11) | [📝 Docs, Notes & Knowledge](#-docs-notes--knowledge) (17) |
+| [🎬 Image, Video, Audio & Music Creation](#-image-video-audio--music-creation) (32) | [✍️ Writing, Publishing & Websites](#%EF%B8%8F-writing-publishing--websites) (11) | [📝 Docs, Notes & Knowledge](#-docs-notes--knowledge) (17) |
 | [✅ Project & Task Management](#-project--task-management) (14) | [📅 Meetings, Calendar & Scheduling](#-meetings-calendar--scheduling) (16) | [💬 Email & Team Chat](#-email--team-chat) (14) |
 | [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (34) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
 | [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (41) |
@@ -382,8 +382,9 @@ _Generate and edit images, video, voice, music, and 3D._
 - [Krea](https://chatgpt.com/plugins/plugin_asdk_app_6a456b312b388191823141ebd1b0f461) - Generate and enhance images, create video and 3D assets, and manage moodboards and styles. 🧩
 
 <details>
-<summary><b>Show 16 more</b></summary>
+<summary><b>Show 17 more</b></summary>
 
+- [Magic Hour AI](https://chatgpt.com/plugins/plugin_asdk_app_6abd6b5b6494819188475d7f1ff8204c) - Create and edit images and videos and generate audio in ChatGPT. 🧩
 - [Magnific](https://chatgpt.com/plugins/plugin_asdk_app_6a1f227d5a848191ae3317c66947b440) - Generate images, video, and audio, upscale to 4K, relight shots, and extract design layers.
 - [Meshy](https://chatgpt.com/plugins/plugins_6a744fc2d0c08191ba89ff29dbd2f8c9) - Turn text, photos, or sketches into textured, rigged 3D models for games or 3D printing. 🧩
 - [Mirelo](https://chatgpt.com/plugins/plugin_asdk_app_6a79d86a50308191b1232da432e63c9e) - Generate sound effects, foley, and ambience from text or video, and convert audio to MIDI.
