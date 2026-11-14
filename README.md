@@ -582,6 +582,7 @@ _SEO, ads, email marketing, social scheduling, and AI-search visibility._
 - [DataForSEO](https://chatgpt.com/plugins/plugin_asdk_app_6ab0e0a944648191a24130a4a65a1311) - Pull keyword volume, live Google SERPs, backlinks, and competitor SEO data.
 - [Funnel](https://chatgpt.com/plugins/plugin_asdk_app_6a2bc16567548191832b2be64604745b) - Query unified ad and analytics data from Google, Meta, TikTok, LinkedIn, and 600+ platforms.
 - [GSC Wizard](https://chatgpt.com/plugins/plugin_asdk_app_6a258ab1e0908191aa647c33299ad14c) - Analyze Google Search Console data: top queries, ranking changes, decay, and cannibalization.
+- [JuzPost](https://chatgpt.com/plugins/plugin_asdk_app_6ac35f5e673c8191837b3d97fe84c761) - Draft, schedule and publish posts to 11 social networks from a chat. 🧩 · [source](https://github.com/juzpost/juzpost-agent)
 - [Keyword Tool: Free SEO Ideas](https://chatgpt.com/plugins/plugin_asdk_app_6a3b8ade83ec8191956643d17852b477) - Generate up to 1,000 Google and Bing keyword ideas with volume and trends, no sign-up.
 - [Klaviyo](https://chatgpt.com/plugins/plugin_asdk_app_694421e60cc88191a1e5bb4aa79950e4) - Analyze Klaviyo campaign and flow performance, including click rates and attributed revenue.
 
