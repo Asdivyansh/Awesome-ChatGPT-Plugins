@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Directory](https://img.shields.io/badge/directory-4%2C338_plugins-10a37f)](catalog/README.md)
-[![Curated](https://img.shields.io/badge/hand--picked-724-0b1020)](#-plugins-by-category)
+[![Curated](https://img.shields.io/badge/hand--picked-725-0b1020)](#-plugins-by-category)
 [![Updated](https://img.shields.io/badge/updated-Oct_10%2C_2026-blue)](data/plugins.json)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -15,7 +15,7 @@
 
 This repo has three layers:
 
-- 🌟 **724 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
+- 🌟 **725 hand-picked plugins and MCP servers** in 28 categories, from the official directory and open-source projects (below).
 - 📚 **A [full, searchable catalog](catalog/README.md)** of every plugin in the directory, plus [JSON](data/plugins.json) and [CSV](data/plugins.csv) exports and a list of [public MCP endpoints](catalog/mcp-endpoints.md).
 - 🛠️ **A builder's toolkit:** official docs, SDKs, frameworks, testing tools, templates, and a [submission checklist](docs/building-plugins.md).
 
@@ -119,7 +119,7 @@ flowchart LR
 
 ## 🧭 Plugins by category
 
-**724 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
+**725 hand-picked plugins and MCP servers** from the official directory and open-source projects, each with a one-line summary of what it lets you do. Within each section, ⭐ editor's picks come first, then everything else A–Z.
 
 **Legend:** ⭐ editor's pick · 🧩 ships skills · 🖥️ desktop app only · `source` = public source code
 
@@ -132,7 +132,7 @@ flowchart LR
 | [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (34) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
 | [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (41) |
 | [👥 HR, Recruiting & Careers](#-hr-recruiting--careers) (13) | [⚖️ Legal, Compliance & Government](#%EF%B8%8F-legal-compliance--government) (30) | [🔐 Security & Privacy](#-security--privacy) (18) |
-| [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (27) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
+| [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (28) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
 | [✈️ Travel & Maps](#%EF%B8%8F-travel--maps) (65) | [🏠 Real Estate, Food & Local Services](#-real-estate-food--local-services) (27) | [🎵 Music, Media & Entertainment](#-music-media--entertainment) (22) |
 | [🎮 Games, Fun & Lifestyle](#-games-fun--lifestyle) (22) |  |  |
 
@@ -943,6 +943,7 @@ _Literature search, citations, scientific computing, and AI models for biology a
 - [Boltz](https://chatgpt.com/plugins/Plugin_146eca281b788191ba8a689a3a96f977) - Predict biomolecular structures and binding, screen libraries, and design binders from Codex. 🧩
 - [Dewey Data](https://chatgpt.com/plugins/plugin_asdk_app_69d0077cd1348191bb7c07e36d522160) - Search research datasets on the Dewey Platform and get schemas, coverage, and sample data.
 - [DrugBank](https://chatgpt.com/plugins/plugin_asdk_app_69de842128008191a89b8568406633d9) - Explore drug-target-disease relationships, clinical trials, and pipelines with DrugBank data.
+- [GetYouTubeTranscript](https://github.com/tubeagentkit/youtube-mcp) - Fetch YouTube transcripts with timestamps, search videos, and list channel or playlist videos. · [source](https://github.com/tubeagentkit/youtube-mcp)
 - [Inductive](https://chatgpt.com/plugins/plugin_asdk_app_6a5f875215108191ae5d449352363219) - Predict ADMET and pharmacokinetic properties of molecules and compare analogs. 🧩
 - [Lux AI](https://chatgpt.com/plugins/plugin_asdk_app_6a7496f80f488191b987fa497abbfe72) - Ask about emerging technologies and markets with cited answers from Lux Research reports.
 - [MoSPI](https://chatgpt.com/plugins/plugin_asdk_app_69ba28476b9881918665f6846b2539ca) - Query official Indian government statistics published by the National Statistics Office.
