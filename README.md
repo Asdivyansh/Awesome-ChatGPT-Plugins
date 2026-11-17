@@ -126,7 +126,7 @@ flowchart LR
 | | | |
 | --- | --- | --- |
 | [💠 Built by OpenAI](#-built-by-openai) (48) | [💻 Coding & Software Engineering](#-coding--software-engineering) (29) | [☁️ Cloud, Deploy & Databases](#%EF%B8%8F-cloud-deploy--databases) (28) |
-| [🔎 Web Search, Scraping & Browsing](#-web-search-scraping--browsing) (10) | [🤖 Automation, Agents & Integrations](#-automation-agents--integrations) (8) | [🎨 Design, Whiteboards & UI](#-design-whiteboards--ui) (36) |
+| [🔎 Web Search, Scraping & Browsing](#-web-search-scraping--browsing) (10) | [🤖 Automation, Agents & Integrations](#-automation-agents--integrations) (9) | [🎨 Design, Whiteboards & UI](#-design-whiteboards--ui) (36) |
 | [🎬 Image, Video, Audio & Music Creation](#-image-video-audio--music-creation) (32) | [✍️ Writing, Publishing & Websites](#%EF%B8%8F-writing-publishing--websites) (11) | [📝 Docs, Notes & Knowledge](#-docs-notes--knowledge) (17) |
 | [✅ Project & Task Management](#-project--task-management) (14) | [📅 Meetings, Calendar & Scheduling](#-meetings-calendar--scheduling) (16) | [💬 Email & Team Chat](#-email--team-chat) (14) |
 | [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (34) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
@@ -301,6 +301,7 @@ _Give ChatGPT agent-grade eyes on the web: search APIs, crawlers, extractors, an
 
 _Hand off multi-step work: autonomous agents, remote machines, voice agents, and data syncs._
 
+- [Fulcra](https://chatgpt.com/plugins/fulcra) - Connect your agent with other people's agents to trade messages and files across AI platforms. 🧩
 - [Manus](https://chatgpt.com/plugins/plugin_asdk_app_694e289261b08191b244259e30ce0836) - Delegate multi-step projects to an autonomous agent that builds slides, websites, and video.
 - [OctoEverywhere](https://chatgpt.com/plugins/plugin_asdk_app_6a6399c9bc848191a2f28f30593f9b5f) - Monitor 3D prints, view webcam snapshots and failure detection, and send printer commands.
 - [Prefect](https://chatgpt.com/plugins/plugin_asdk_app_6a5fe5e3471881919daf83971db15505) - Inspect Prefect Cloud workflows and diagnose failed, late, or stuck runs, read-only. 🧩
