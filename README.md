@@ -133,7 +133,7 @@ flowchart LR
 | [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (41) |
 | [👥 HR, Recruiting & Careers](#-hr-recruiting--careers) (13) | [⚖️ Legal, Compliance & Government](#%EF%B8%8F-legal-compliance--government) (30) | [🔐 Security & Privacy](#-security--privacy) (18) |
 | [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (28) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
-| [✈️ Travel & Maps](#%EF%B8%8F-travel--maps) (65) | [🏠 Real Estate, Food & Local Services](#-real-estate-food--local-services) (27) | [🎵 Music, Media & Entertainment](#-music-media--entertainment) (22) |
+| [✈️ Travel & Maps](#%EF%B8%8F-travel--maps) (65) | [🏠 Real Estate, Food & Local Services](#-real-estate-food--local-services) (28) | [🎵 Music, Media & Entertainment](#-music-media--entertainment) (22) |
 | [🎮 Games, Fun & Lifestyle](#-games-fun--lifestyle) (22) |  |  |
 
 ### 💠 Built by OpenAI
@@ -1094,16 +1094,17 @@ _Homes, food delivery, restaurants, rides, cars, and local pros._
 - [Apartments.com](https://chatgpt.com/plugins/plugin_asdk_app_6a6a8fe3c4948191b45865bfa0b64626) - Search rental listings by city, price, bedrooms, pets, and amenities, and explore floor plans.
 - [AutoScout24](https://chatgpt.com/plugins/plugin_asdk_app_69442d964bd08191a7958aabc6e34394) - Search 2M+ new and used vehicles from private sellers and dealers across Europe.
 - [Autotrader](https://chatgpt.com/plugins/plugin_asdk_app_69e20b3fd240819196cf290041542225) - Search 400,000+ cars from UK dealers by make, model, mileage and more.
+- [BatchData MCP](https://github.com/batchdataco/batchdata-mcp-server) - Look up U.S. property records, comps, owners and skip-trace contacts via a hosted MCP server. 🧩
 - [Bayut](https://chatgpt.com/plugins/plugin_asdk_app_694924fe5c1881919adf68da467511c1) - Search UAE homes, offices and shops for sale or rent by location, type, bedrooms and price.
 - [Bolt](https://chatgpt.com/plugins/plugin_asdk_app_6a59d51795608191990f53924d5a1e81) - Compare current or scheduled Bolt ride estimates, then open Bolt to book.
 - [Fresha](https://chatgpt.com/plugins/plugin_asdk_app_6a2030e52eb88191ad6a81fca66bed46) - Find salons, barbers, spas and wellness studios by service, time and price, then book.
 - [Home Connect](https://chatgpt.com/plugins/plugin_asdk_app_69aeca1f4fb081919ca4ac208d305a5a) - Control Bosch, Siemens, NEFF and Gaggenau smart home appliances from chat.
 - [idealista](https://chatgpt.com/plugins/plugin_asdk_app_6996f481ed0c8191852f9c34c6a97d44) - Search property to buy or rent in Spain, Italy and Portugal with photos and maps.
-- [Just Eat](https://chatgpt.com/plugins/plugin_asdk_app_6a61fb81fd208191a30835fa66df9eee) - Search Just Eat restaurants by cuisine, location or craving and build a basket.
 
 <details>
-<summary><b>Show 12 more</b></summary>
+<summary><b>Show 13 more</b></summary>
 
+- [Just Eat](https://chatgpt.com/plugins/plugin_asdk_app_6a61fb81fd208191a30835fa66df9eee) - Search Just Eat restaurants by cuisine, location or craving and build a basket.
 - [Love and Lemons](https://chatgpt.com/plugins/plugin_asdk_app_69dea4beafec8191ad87857bd871499a) - Find recipes by ingredient, cuisine or craving and plan weekly meals from Love and Lemons.
 - [Peristyle Grocery Cart](https://chatgpt.com/plugins/plugin_asdk_app_6a49382adf148191b86d3a83ad0c3d8b) - Turn a recipe into a Kroger or Walmart grocery cart with matched products and prices. 🧩
 - [realestate.com.au](https://chatgpt.com/plugins/plugin_asdk_app_6943a66cd50881918bee527e5fbdcde3) - Search Australian property listings on a map with photos and prices, then contact agents.
