@@ -602,6 +602,7 @@ _SEO, ads, email marketing, social scheduling, and AI-search visibility._
 - [Peec AI](https://chatgpt.com/plugins/plugin_asdk_app_6a79a24c9b0c819197d220e7b655c8b5) - Track brand visibility, sentiment, and share of voice across AI search engines.
 - [Postiz](https://chatgpt.com/plugins/plugin_asdk_app_6aaaf1a529808191a2a15fde824bb013) - Draft and schedule social posts across connected channels and review upcoming publishing.
 - [Puley](https://chatgpt.com/plugins/plugin_asdk_app_6ac904db9ef88191bced7cccd5bfc4da) - See competitors' live Meta and Google ads, pull local business leads, and track price changes.
+- [Repostit](https://chatgpt.com/plugins/plugin_asdk_app_6aa2dbd3da6481918f64012ddfdaf405) - Turn video attachments into editable briefs, schedule posts, and check delivery.
 - [Semrush](https://chatgpt.com/plugins/plugin_connector_691fa57b709c8191b61c48b1f78dce21) - Pull Semrush SEO data on domains, keywords, backlinks, and traffic by channel and geography.
 - [SE Ranking](https://chatgpt.com/plugins/plugin_asdk_app_6a0b262d5c0c8191953dd94ba05412e2) - Research keywords and backlinks, run site audits, and track rankings and AI search visibility.
 - [Serpstat](https://chatgpt.com/plugins/plugin_asdk_app_698b10719a688191b53a37692efb6d81) - Cluster keywords, audit sites, and analyze competitors' rankings, backlinks, and top pages.
