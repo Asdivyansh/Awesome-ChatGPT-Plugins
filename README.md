@@ -370,6 +370,7 @@ _Generate and edit images, video, voice, music, and 3D._
 - [HeyGen](https://chatgpt.com/plugins/plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4) ⭐ - Create and manage avatar videos, voices, translations, and templates in HeyGen. 🧩
 - [Higgsfield](https://chatgpt.com/plugins/plugin_asdk_app_6a3293e129088191abf0875820e839da) ⭐ - Create images, videos, and branded content using viral presets and top image/video models. 🧩
 - [Runway](https://chatgpt.com/plugins/plugin_asdk_app_6a05e3b201788191be12b590b43e6ce3) ⭐ - Generate and edit images, video, and audio, animate stills, and build multi-shot stories.
+- [Aisma](https://chatgpt.com/plugins/plugin_asdk_app_6af464388c4881919dab901a9adfd4d9) - Edit a video you already shot by describing the change, with framing and audio kept.
 - [Camtasia](https://chatgpt.com/plugins/plugin_asdk_app_69f3b47a700c8191b66f048b7c7ba3cd) - Turn screenshots into narrated how-to videos with animated cursor movements and zooms.
 - [Cloudinary](https://chatgpt.com/plugins/plugin_asdk_app_691f245d4070819184e05b4889161ba8) - Manage, modify, and host your images and videos in Cloudinary.
 - [Creatify Ad Agent](https://chatgpt.com/plugins/plugin_asdk_app_6abd8b5b65d48191ae6b239ffeb041b8) - Create video ads from a product brief, adjust shots, captions, and music, then export. 🧩
