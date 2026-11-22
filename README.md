@@ -379,7 +379,7 @@ _Generate and edit images, video, voice, music, and 3D._
 - [HyperFrames by HeyGen](https://chatgpt.com/plugins/Plugin_d72b815ecf6481919e3beede9c71ef08) - Author videos in HTML, CSS, and GSAP, and turn any website into a rendered video. 🧩 · [source](https://github.com/heygen-com/hyperframes)
 - [invideo](https://chatgpt.com/plugins/plugin_asdk_app_6943c531f50c8191b40bcd2ca978c780) - Turn a text prompt into a finished video with script, visuals, voiceover, and music.
 - [Klap](https://chatgpt.com/plugins/plugin_asdk_app_6ab52532ab348191be78c537fe025ab3) - Turn long YouTube, Twitch, or Vimeo videos into ranked, captioned vertical shorts.
-- [Kling AI](https://chatgpt.com/plugins/plugins_6a86c3ff68a08191be42add5a9567875) - Generate images and videos from text or images, with reusable elements and motion control. 🧩
+- [Kling AI Plugin](https://chatgpt.com/plugins/plugins_6a86c3ff68a08191be42add5a9567875) - Create and edit images and videos via the official Kling MCP Plugin, with reusable Elements and motion control. 🧩 · [source](https://github.com/klingai-dev/chatgpt-plugin)
 - [Krea](https://chatgpt.com/plugins/plugin_asdk_app_6a456b312b388191823141ebd1b0f461) - Generate and enhance images, create video and 3D assets, and manage moodboards and styles. 🧩
 
 <details>
