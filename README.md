@@ -939,6 +939,7 @@ _Literature search, citations, scientific computing, and AI models for biology a
 - [Consensus](https://chatgpt.com/plugins/plugin_asdk_app_6943e6f4a928819195962de16fb9ffe4) ⭐ - Search 220M+ peer-reviewed papers, run literature reviews, and draft cited research content.
 - [Elicit](https://chatgpt.com/plugins/plugin_asdk_app_69fcf53d4d8481919b65501a96bbed02) ⭐ - Search 125M+ academic papers and build structured reports that extract data across studies.
 - [Wolfram](https://chatgpt.com/plugins/plugin_asdk_app_69fe0bf66c8481919c513d799406436e) ⭐ - Run Wolfram Language and Wolfram|Alpha computations and curated data queries from chat.
+- [AlphaOSINT YouTube Transcripts](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/youtube-transcripts) - Fetch timestamped transcripts and metadata for many YouTube videos or Shorts in one call (paid). · [source](https://github.com/johnisanerd/alphaosint-mcp-servers)
 - [alphaXiv](https://chatgpt.com/plugins/plugin_asdk_app_6a69834b831c8191a0281d6aca1722f0) - Discover academic papers, query their content, inspect linked GitHub repos, and save papers.
 - [Arcmira](https://github.com/arcmira/mcp/tree/master/plugins/arcmira) - Search indexed YouTube and podcast transcripts for timestamped quotes and speaker appearances. 🧩
 - [Article Galaxy](https://chatgpt.com/plugins/plugin_asdk_app_6a5009fb05248191bccf5611822d08f7) - Check availability and reuse rights for scientific articles and order full-text PDFs.
