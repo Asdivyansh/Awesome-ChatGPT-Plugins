@@ -1018,6 +1018,7 @@ _Flights, hotels, trains, ferries, tours, maps, and the great outdoors._
 - [AirHelp](https://chatgpt.com/plugins/plugin_asdk_app_6985d45803d08191bc0f0e9051ce2154) - Check if a delayed or cancelled flight qualifies for compensation and start a claim.
 - [ALL Accor](https://chatgpt.com/plugins/plugin_asdk_app_6964b9f1c11c81919eefdc73903ad657) - Compare and book rooms across 5,700+ Accor hotels, from ibis and Novotel to luxury brands.
 - [AllTrails](https://chatgpt.com/plugins/plugin_asdk_app_68f1afc5a6008191a701eaaab428816c) - Discover trails for your next hike with AllTrails.
+- [AlphaOSINT Google Flights](https://github.com/johnisanerd/alphaosint-mcp-servers/tree/main/servers/google-flights) - Search fares for any route and date, with airlines, stops and layovers (paid). · [source](https://github.com/johnisanerd/alphaosint-mcp-servers)
 - [Atlys](https://chatgpt.com/plugins/plugin_asdk_app_695be379655c8191b45fc0747b70eae4) - Check visa requirements for your passport and destination from official government sources.
 - [BlaBlaCar](https://chatgpt.com/plugins/plugin_asdk_app_69bd4591e60481918ca979be11d16471) - Find shared car rides with drivers heading your way, plus bus and train options.
 - [BonjourRATP](https://chatgpt.com/plugins/plugin_asdk_app_6a4f53909ec081919b6fd5edf5d33e17) - Plan Paris-region transit trips across metro, RER, Transilien, bus and tram with live traffic.
