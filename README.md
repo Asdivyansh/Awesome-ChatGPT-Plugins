@@ -130,7 +130,7 @@ flowchart LR
 | [🎬 Image, Video, Audio & Music Creation](#-image-video-audio--music-creation) (32) | [✍️ Writing, Publishing & Websites](#%EF%B8%8F-writing-publishing--websites) (11) | [📝 Docs, Notes & Knowledge](#-docs-notes--knowledge) (17) |
 | [✅ Project & Task Management](#-project--task-management) (14) | [📅 Meetings, Calendar & Scheduling](#-meetings-calendar--scheduling) (16) | [💬 Email & Team Chat](#-email--team-chat) (14) |
 | [🤝 Sales, CRM & Customer Support](#-sales-crm--customer-support) (27) | [📣 Marketing, SEO & Social Media](#-marketing-seo--social-media) (34) | [🛍️ E-commerce & Shopping](#%EF%B8%8F-e-commerce--shopping) (17) |
-| [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (41) |
+| [💳 Payments, Accounting & Payroll](#-payments-accounting--payroll) (26) | [📈 Investing, Markets & Personal Finance](#-investing-markets--personal-finance) (47) | [📊 Data, Analytics & BI](#-data-analytics--bi) (42) |
 | [👥 HR, Recruiting & Careers](#-hr-recruiting--careers) (13) | [⚖️ Legal, Compliance & Government](#%EF%B8%8F-legal-compliance--government) (30) | [🔐 Security & Privacy](#-security--privacy) (18) |
 | [🎓 Learning & Education](#-learning--education) (26) | [🔬 Research & Science](#-research--science) (28) | [🩺 Health, Fitness & Wellness](#-health-fitness--wellness) (19) |
 | [✈️ Travel & Maps](#%EF%B8%8F-travel--maps) (65) | [🏠 Real Estate, Food & Local Services](#-real-estate-food--local-services) (27) | [🎵 Music, Media & Entertainment](#-music-media--entertainment) (22) |
@@ -767,7 +767,7 @@ _Product analytics, BI, data warehouses, catalogs, and forms._
 - [Comscore](https://chatgpt.com/plugins/plugin_asdk_app_69f21afac8fc819181ffb6e6653cb296) - Query Comscore digital audience, traffic, and linear TV viewership measurement data.
 
 <details>
-<summary><b>Show 26 more</b></summary>
+<summary><b>Show 27 more</b></summary>
 
 - [Datadog Experiments](https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025) - Work with Datadog Product Analytics, feature flags, and experiments from chat.
 - [dbt](https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e) - Inspect dbt lineage, query Semantic Layer metrics, run dbt commands, and manage jobs. 🧩 · [source](https://github.com/dbt-labs/dbt-mcp)
@@ -775,6 +775,7 @@ _Product analytics, BI, data warehouses, catalogs, and forms._
 - [Dovetail](https://chatgpt.com/plugins/plugin_asdk_app_6993d29ac7b48191974c461b8c59fbb6) - Search Dovetail projects, notes, and themes to summarize customer feedback and friction points.
 - [Evidence Studio](https://chatgpt.com/plugins/plugin_asdk_app_6a623ee04d488191a233bbb316dcd84d) - Browse table metadata, run queries, and work with published SQL-and-Markdown BI reports.
 - [Flourish](https://chatgpt.com/plugins/plugin_asdk_app_6a3265ca9104819181dd46e6ce0a15b6) - Turn data into interactive Flourish charts from a suitable template and get an edit link.
+- [Frank AI Researcher](https://chatgpt.com/plugins/plugin_asdk_app_6ad8ab4844a881919c79bb0864ffe168) - Run AI-moderated voice interviews with your own customers and read transcripts and themes.
 - [Fullstory](https://chatgpt.com/plugins/plugin_asdk_app_6a9a1ebb11fc81919ef2aa7231b9b068) - Ask about feature adoption, checkout leaks, or release impact using Fullstory behavioral data. 🧩
 - [Jotform](https://chatgpt.com/plugins/plugin_asdk_app_6940945609248191a4986e5d23cb2529) - Generate and edit Jotform forms from a description, and analyze their responses. 🧩
 - [Metabase](https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5) - Search tables and metrics, run queries, set up instances, and embed Metabase dashboards. 🧩
